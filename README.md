@@ -6,4 +6,7 @@
 Сообщить о ошибках можно сюда же GitHub Issues;
 
 Команда Stray Forge
+
 Автор: Wayworn
+
+Связь: strayforge.dev@gmail.com
