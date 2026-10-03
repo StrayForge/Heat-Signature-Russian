@@ -10,3 +10,5 @@
 Автор: Wayworn
 
 Связь: strayforge.dev@gmail.com
+
+Прямая ссылка на перевод: https://github.com/chapalai/Heat-Signature-Russian/releases/latest/download/Heat-Signature-Russian.zip
